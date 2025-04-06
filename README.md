@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm an experienced **Full Stack Software Engineer** and **Engineering Leader** passionate about building scalable, high-performance web applications. With expertise in modern web technologies, I craft seamless user experiences and architect robust solutions.
+I'm an experienced **Full-Stack Software Engineer** and **Engineering Leader** passionate about making the web a beautiful place. There's nothing better than delighting a customer and seeing people use something you built. That's what makes this profession so fun. Also there's nothing better than conquering a new challenge and learning something new.
 
 ## 🛠️ Tech Stack
 
